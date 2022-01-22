@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/trillo-website/static/css/main.185aeef5.chunk.css",
+    "main.css": "/trillo-website/static/css/main.b8e8e87a.chunk.css",
     "main.js": "/trillo-website/static/js/main.e4687a60.chunk.js",
     "main.js.map": "/trillo-website/static/js/main.e4687a60.chunk.js.map",
     "runtime-main.js": "/trillo-website/static/js/runtime-main.b84b7a1d.js",
@@ -8,14 +8,14 @@
     "static/js/2.395f8c7f.chunk.js": "/trillo-website/static/js/2.395f8c7f.chunk.js",
     "static/js/2.395f8c7f.chunk.js.map": "/trillo-website/static/js/2.395f8c7f.chunk.js.map",
     "index.html": "/trillo-website/index.html",
-    "static/css/main.185aeef5.chunk.css.map": "/trillo-website/static/css/main.185aeef5.chunk.css.map",
+    "static/css/main.b8e8e87a.chunk.css.map": "/trillo-website/static/css/main.b8e8e87a.chunk.css.map",
     "static/js/2.395f8c7f.chunk.js.LICENSE.txt": "/trillo-website/static/js/2.395f8c7f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/trillo-website/static/media/chevron-thin-right.ae29a6a2.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b84b7a1d.js",
     "static/js/2.395f8c7f.chunk.js",
-    "static/css/main.185aeef5.chunk.css",
+    "static/css/main.b8e8e87a.chunk.css",
     "static/js/main.e4687a60.chunk.js"
   ]
 }
